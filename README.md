@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile! 
+
 Please visit my web page [here](https://ei-raul.github.io/).
+
+Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ei_raul/) 
 
 <!--
 **ei-raul/ei-raul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
