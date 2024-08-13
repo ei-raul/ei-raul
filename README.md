@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! 
+Please visit my web page [here](https://ei-raul.github.io/).
+
 <!--
 **ei-raul/ei-raul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
